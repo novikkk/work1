@@ -1,2 +1,5 @@
 void Class1(){
+	void Create(int i){
+		return 88;
+	}
 }
