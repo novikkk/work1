@@ -1,0 +1,5 @@
+int Class2(){
+	public Class2(int i){
+
+	}
+}
